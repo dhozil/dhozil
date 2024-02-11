@@ -2,10 +2,7 @@
 <h3 align="center">I am an independent Validator and Crypto enthusiast - I will contribute to your project</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/3163039/screenshots/14754552/media/e97add2bcb049c9c41334b00e366da3a.gif">
 
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhozil&label=Profile%20views&color=0e75b6&style=flat" alt="dhozil" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dhozil" alt="dhozil" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/cobersky" target="blank"><img src="https://img.shields.io/twitter/follow/cobersky?logo=twitter&style=for-the-badge" alt="cobersky" /></a> </p>
 
