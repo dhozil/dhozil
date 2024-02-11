@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm DhoziL</h1>
 <h3 align="center">I am an independent Validator and Crypto enthusiast - I will contribute to your project</h3>
+
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/3163039/screenshots/14754552/media/e97add2bcb049c9c41334b00e366da3a.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhozil&label=Profile%20views&color=0e75b6&style=flat" alt="dhozil" /> </p>
@@ -12,9 +13,6 @@
 
 - ⚡ Fun fact **I will be as you expect**
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
