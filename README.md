@@ -26,6 +26,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dhozil&show_icons=true&locale=en&layout=compact" alt="dhozil" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dhozil&show_icons=true&locale=en" alt="dhozil" /></p>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhozil&theme=midnight-purple&show_icons=true)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dhozil&" alt="dhozil" /></p>
