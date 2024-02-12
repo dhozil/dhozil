@@ -28,4 +28,4 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=dhozil&theme=jolly)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dhozil&" alt="dhozil" /></p>
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dhozil&theme=jolly)
