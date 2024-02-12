@@ -24,8 +24,8 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> </p>
 
-<p><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dhozil&theme=jolly" /></p>
+<p><img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dhozil&theme=jolly" /></p>
 
-<p><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=dhozil&theme=jolly" /></p>
+<p><img align="right" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=dhozil&theme=jolly" /></p>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dhozil&theme=jolly)
