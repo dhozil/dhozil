@@ -26,8 +26,6 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dhozil&theme=jolly)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dhozil&theme=jolly)
-
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=dhozil&theme=jolly)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dhozil&theme=jolly)
