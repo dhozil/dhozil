@@ -26,6 +26,6 @@
 
 <p><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dhozil&theme=jolly" /></p>
 
-<p><img align="![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=dhozil&theme=jolly)" /></p>
+<p><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=dhozil&theme=jolly" /></p>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dhozil&theme=jolly)
