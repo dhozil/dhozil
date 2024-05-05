@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/cobersky" target="blank"><img src="https://img.shields.io/twitter/follow/cobersky?logo=twitter&style=for-the-badge" alt="cobersky" /></a> </p>
 
-- 🔭 I’m currently working on [Namada](https://twitter.com/namada)
+- 🔭 I’m currently working on [Warden Protocol](https://twitter.com/wardenprotocol)
 
 - 📫 How to reach me **dhozilgooners98@gmail.com**
 
